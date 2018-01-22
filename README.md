@@ -1,5 +1,5 @@
 # Code-checker
-Simple script in BASH for code checking, chmod, doctrine update...
+Simple script in BASH for code checking, chmod, doctrine update... Using in NETTE framework
 
 
 # How to use
